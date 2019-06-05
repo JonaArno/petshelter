@@ -1650,7 +1650,6 @@ public class AppointmentAuthorizationCrudHandler : AuthorizationHandler<Operatio
 
 * https://blogs.msdn.microsoft.com/benjaminperkins/2017/04/04/setting-up-and-using-github-in-visual-studio-2017/
 * https://visualstudio.microsoft.com/downloads/
-* https://visualstudio.microsoft.com/downloads/
 * https://conemu.github.io/
 * https://azure.microsoft.com/nl-nl/updates/azure-data-studio-is-now-available/
 * https://github.com/CleorgeGooney/petshelter
